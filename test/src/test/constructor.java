@@ -23,6 +23,5 @@ this.b=b;
 constructor cons=new constructor();
 //constructor cons1=new constructor(10,"sss");
 
-
 	}
 }
